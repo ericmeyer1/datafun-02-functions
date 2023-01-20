@@ -27,6 +27,14 @@ Uses:
 
 """
 
+
+### MY NOTES:
+    # math.ceil(x) - returns the samllest integer greater than or equal to x
+    # math.fabs(x) - returns absolute value of x
+
+    #def function() - creating a function to call later, if (__) is filled than it takes that argument to complete function
+
+
 import math
 
 # define some functions
