@@ -85,7 +85,7 @@ class PyBuddy:
         elif self.pto_balance == pto_avg:
             return "equal to"
     
-    def annual_bonus(self):
+    def annual_bonus(self): # (2) Created this second method to calculate an employee's annual bonus.
         """Calculating annual bonus for the employee based off years of
         service and end of year PTO balance (assuming performance is great for all in this scenario ;) )."""
         
