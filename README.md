@@ -1,3 +1,10 @@
+Eric Meyer Data Analytics Fundamentals Project 2 Domain: Human Resources
+
+The goal of ths project is to gain skills with:
+- Functions: Mean, Median, and Mode
+- Functions: Variance and Standard Deviation
+- Custom Functions
+
 # datafun-02-functions
 
 > Practice with built-in functions, creating functions, creating methods (functions in a class), and employing statistical functions
